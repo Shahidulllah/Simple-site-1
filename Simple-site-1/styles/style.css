@@ -1,0 +1,20 @@
+
+
+.header-container{
+    background-image: url('../images/banner/banner1.png');
+    width: 100%;
+}
+
+.pri-btn{
+    background: #F15B22;
+    color: white;
+    font-size: 20px;
+    font-family: Work Sans;
+    font-weight: 600;
+    word-wrap: break-word
+}
+
+.watch-section{
+    background-image: url('/images/watch.png');
+    width: 100%;
+}
